@@ -1,0 +1,7 @@
+This project is set up using Vite ReactJS
+To open up this project:
+ * Clone this repository on to your local machine
+ * Open in VS Code and open terminal
+ * type "npm run dev" without the "
+ * Wait for it to initialize.
+ * Press the letter O to open to your browser locally.
